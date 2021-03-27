@@ -18,7 +18,7 @@ void main() {
                     TextSpan(
                       text: '\nCalendar View',
                       style: TextStyle(
-                        color: Color.fromRGBO(120, 120, 120, 1),
+                        color: Color.fromRGBO(120, 120, 120, 0.9),
                         fontSize: 18,
                       ),
                     ),
